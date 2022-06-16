@@ -1,6 +1,6 @@
 # 
 
-A page showing the services and prices a spa offers. 
+A very basic page showing the services and prices a spa offers. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
